@@ -14,7 +14,7 @@ This is the official repository for the ReCAN dataset. In collaboration with the
 ## Affiliations
  <sup>M</sup> Authors are with the Department of Information and Communications Engineering, University of Murcia, Spain
  
- <sup>P</sup> Authors are with the Department of Engineering, Information and Bioengineering, Politecnico di Milano, Italy
+ <sup>P</sup> Authors are with the Department of Electronics, Information and Bioengineering, Politecnico di Milano, Italy
 
 ## Abstract
 >This article details the methodology and the approach used to extract and decode the data obtained from the Controller Area Network (CAN) buses in two personal vehicles and three commercial trucks for a total of 38 million data frames. The dataset is composed of two complementary parts, namely the raw data and the decoded ones. Along with the description of the data, this article also reports both hardware and software requirements to first extract the data from the vehicles and secondly decode the binary data frames to obtain the actual sensors' data. Finally, to enable analysis reproducibility and future researches, the code snippets that have been described in pseudo-code will be publicly available in a code repository. 
