@@ -2,7 +2,20 @@
 
 This is the official repository for the ReCAN dataset in collaboration with the Politecnico di Milano, Italy.
 
-To cite this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3625715`.
+To cite the ReCAN dataset, please use the following BibTeX and the DOI: `10.1016/j.dib.2020.105149`.
+```
+@article{ReCAN2020, 
+  title     = {ReCAN - Dataset for Reverse engineering of Controller Area Networks},
+  author    = {Zago, Mattia and Longari, Stefano and Tricarico, Andrea and Gil Pérez, Manuel and Carminati, Michele and Martínez Pérez, Gregorio and Zanero, Stefano}, 
+  year      = {2020}, 
+  volume    = {29},
+  pages     = {105149},
+  journal   = {Data in Brief},
+  doi       = {10.1016/j.dib.2020.105149},
+} 
+```
+
+To specifically cite *only* this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3625715`.
 ```
 @misc{ReCANGitHub2020, 
   title     = {ReCAN Source - Reverse engineering of Controller Area Networks},
